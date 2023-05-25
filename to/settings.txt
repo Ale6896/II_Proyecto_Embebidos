@@ -1,0 +1,3 @@
+{
+'adjust_capture_time': 2
+}

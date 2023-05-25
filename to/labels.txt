@@ -1,0 +1,9 @@
+{
+"1.png": "Label 1",
+"2.png": "Label 2",
+"3.png": "Label 3",
+"4.png": "Label 4",
+"5.png": "Label 5",
+"6.png": "Label 6"
+}
+
